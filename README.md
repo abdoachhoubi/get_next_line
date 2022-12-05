@@ -1,20 +1,20 @@
-```
+```bash
 # **************************************************************************** #
 #                                                                              #
 #                                                         :::      ::::::::    #
 #    get_next_line                                      :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: aachhoub <aachhoub@42.fr>                  +#+  +:+       +#+         #
+#    By: aachhoub <aachhoub@student.1337.ma>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2022/08/18  by aachhoub                  #+#    #+#              #
-#    Updated: 2022/08/27  by aachhoub                 ###   ########.fr        #
+#    Created: 2022/12/04      by aachhoub              #+#    #+#              #
+#    Updated: 2022/12/04      by aachhoub             ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 ```
 
-# Get Next Line
+# get_next_line
 
-The aim of this project is to make you code a function that reads from a file descriptor, and returns its content line by line.
+File system basics (open-file table, file-descriptor table), file manipulation (open, read, write, create), static variables.
 
 
 ## Functions:
